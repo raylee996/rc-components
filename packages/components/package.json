@@ -1,0 +1,26 @@
+{
+  "name": "components",
+  "version": "0.0.0",
+  "description": "react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "helpers": "workspace:^0.0.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
